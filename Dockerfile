@@ -10,3 +10,6 @@ COPY ./yourls-bot /home/yourls-bot
 WORKDIR /home/yourls-bot
 
 RUN pip install -r requirements.txt
+
+RUN apk del py3-pip
+RUN apk del git
