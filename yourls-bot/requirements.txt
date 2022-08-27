@@ -1,0 +1,3 @@
+python-telegram-bot==13.1
+git+https://github.com/Bibo-Joshi/yourls-python.git@extensions
+git+https://github.com/python-telegram-bot/ptbcontrib.git@8e81e9381d9552f5085a468a9dffc7387dd3bc86

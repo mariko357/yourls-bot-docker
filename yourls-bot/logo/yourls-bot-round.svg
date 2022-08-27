@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Capa_1"
+   enable-background="new 0 0 512.003 512.003"
+   height="669.73907"
+   viewBox="0 0 669.743 669.743"
+   width="669.73907"
+   version="1.1"
+   sodipodi:docname="yourls-bot-round.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\Hinrich\PycharmProjects\yourls-bot\logo\yourls-bot-round.png"
+   inkscape:export-xdpi="71.669998"
+   inkscape:export-ydpi="71.669998">
+  <metadata
+     id="metadata61">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs59">
+    <path
+       d="M 675,360 H 63 V 624 H 675 V 920 L 1135,492 675,64 Z"
+       id="a"
+       inkscape:connector-curvature="0" />
+    <path
+       id="c"
+       d="m 2736,0 h 318 c 218.705,0 396,177.295 396,396 0,218.705 -177.295,396 -396,396 H 2736 C 2517.295,792 2340,614.705 2340,396 2340,177.295 2517.295,0 2736,0 Z m 0,254 c -78.424,0 -142,63.576 -142,142 0,78.424 63.576,142 142,142 h 318 c 78.424,0 142,-63.576 142,-142 0,-78.424 -63.576,-142 -142,-142 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="b"
+       filterUnits="objectBoundingBox"
+       height="1.131"
+       width="1.094"
+       y="-0.066"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology873"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="54" />
+      <feOffset
+         id="feOffset875"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-50" />
+      <feComposite
+         id="feComposite877"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix879"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="e"
+       d="m 3906,0 h 318 c 218.705,0 396,177.295 396,396 0,218.705 -177.295,396 -396,396 H 3906 C 3687.295,792 3510,614.705 3510,396 3510,177.295 3687.295,0 3906,0 Z m 0,254 c -78.424,0 -142,63.576 -142,142 0,78.424 63.576,142 142,142 h 318 c 78.424,0 142,-63.576 142,-142 0,-78.424 -63.576,-142 -142,-142 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="d"
+       filterUnits="objectBoundingBox"
+       height="1.131"
+       width="1.094"
+       y="-0.066"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology883"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="54" />
+      <feOffset
+         id="feOffset885"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-50" />
+      <feComposite
+         id="feComposite887"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix889"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="g"
+       d="m 1566,0 h 318 c 218.705,0 396,177.295 396,396 0,218.705 -177.295,396 -396,396 H 1566 C 1347.295,792 1170,614.705 1170,396 1170,177.295 1347.295,0 1566,0 Z m 0,254 c -78.424,0 -142,63.576 -142,142 0,78.424 63.576,142 142,142 h 318 c 78.424,0 142,-63.576 142,-142 0,-78.424 -63.576,-142 -142,-142 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="f"
+       filterUnits="objectBoundingBox"
+       height="1.131"
+       width="1.094"
+       y="-0.066"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology893"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="54" />
+      <feOffset
+         id="feOffset895"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-50" />
+      <feComposite
+         id="feComposite897"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix899"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="h"
+       d="m 396,0 h 318 c 218.705,0 396,177.295 396,396 0,218.705 -177.295,396 -396,396 H 396 C 177.295,792 0,614.705 0,396 0,177.295 177.295,0 396,0 Z m 0,254 c -78.424,0 -142,63.576 -142,142 0,78.424 63.576,142 142,142 h 318 c 78.424,0 142,-63.576 142,-142 0,-78.424 -63.576,-142 -142,-142 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="i"
+       filterUnits="objectBoundingBox"
+       height="1.131"
+       width="1.094"
+       y="-0.066"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology903"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="54" />
+      <feOffset
+         id="feOffset905"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-50" />
+      <feComposite
+         id="feComposite907"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix909"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="k"
+       d="m 396,0 h 318 c 218.705,0 396,177.295 396,396 0,218.705 -177.295,396 -396,396 H 396 C 177.295,792 0,614.705 0,396 0,177.295 177.295,0 396,0 Z m 0,254 c -78.424,0 -142,63.576 -142,142 0,78.424 63.576,142 142,142 h 318 c 78.424,0 142,-63.576 142,-142 0,-78.424 -63.576,-142 -142,-142 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="j"
+       filterUnits="objectBoundingBox"
+       height="1.131"
+       width="1.094"
+       y="-0.066"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology913"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="54" />
+      <feOffset
+         id="feOffset915"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-50" />
+      <feComposite
+         id="feComposite917"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix919"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="l"
+       d="m 781,487 h 724 c 50.258,0 91,-40.742 91,-91 0,-50.258 -40.742,-91 -91,-91 H 781 c -50.258,0 -91,40.742 -91,91 0,50.258 40.742,91 91,91 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="n"
+       d="m 781,487 h 724 c 50.258,0 91,-40.742 91,-91 0,-50.258 -40.742,-91 -91,-91 H 781 c -50.258,0 -91,40.742 -91,91 0,50.258 40.742,91 91,91 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="m"
+       filterUnits="objectBoundingBox"
+       height="1.418"
+       width="1.084"
+       y="-0.20899999"
+       x="-0.041999999">
+      <feMorphology
+         id="feMorphology924"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="25" />
+      <feOffset
+         id="feOffset926"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-51" />
+      <feComposite
+         id="feComposite928"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix930"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="o"
+       d="m 1948,487 h 724 c 50.258,0 91,-40.742 91,-91 0,-50.258 -40.742,-91 -91,-91 h -724 c -50.258,0 -91,40.742 -91,91 0,50.258 40.742,91 91,91 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="q"
+       d="m 1948,487 h 724 c 50.258,0 91,-40.742 91,-91 0,-50.258 -40.742,-91 -91,-91 h -724 c -50.258,0 -91,40.742 -91,91 0,50.258 40.742,91 91,91 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="p"
+       filterUnits="objectBoundingBox"
+       height="1.418"
+       width="1.084"
+       y="-0.20899999"
+       x="-0.041999999">
+      <feMorphology
+         id="feMorphology935"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="25" />
+      <feOffset
+         id="feOffset937"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-51" />
+      <feComposite
+         id="feComposite939"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix941"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="r"
+       d="m 3115,487 h 724 c 50.258,0 91,-40.742 91,-91 0,-50.258 -40.742,-91 -91,-91 h -724 c -50.258,0 -91,40.742 -91,91 0,50.258 40.742,91 91,91 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="t"
+       d="m 3115,487 h 724 c 50.258,0 91,-40.742 91,-91 0,-50.258 -40.742,-91 -91,-91 h -724 c -50.258,0 -91,40.742 -91,91 0,50.258 40.742,91 91,91 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="s"
+       filterUnits="objectBoundingBox"
+       height="1.418"
+       width="1.084"
+       y="-0.20899999"
+       x="-0.041999999">
+      <feMorphology
+         id="feMorphology946"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="25" />
+      <feOffset
+         id="feOffset948"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-51" />
+      <feComposite
+         id="feComposite950"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix952"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="v"
+       d="m 939.6,0 h 190.8 c 131.223,0 237.6,106.556 237.6,238 0,131.444 -106.377,238 -237.6,238 H 939.6 C 808.377,476 702,369.444 702,238 702,106.556 808.377,0 939.6,0 Z m 0,152.657 c -47.055,0 -85.2,38.21 -85.2,85.343 0,47.134 38.145,85.343 85.2,85.343 h 190.8 c 47.055,0 85.2,-38.21 85.2,-85.343 0,-47.134 -38.145,-85.343 -85.2,-85.343 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="u"
+       filterUnits="objectBoundingBox"
+       height="1.13"
+       width="1.0930001"
+       y="-0.064999998"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology956"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="32" />
+      <feOffset
+         id="feOffset958"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-30" />
+      <feComposite
+         id="feComposite960"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix962"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="w"
+       d="M 237.6,0 H 428.4 C 559.623,0 666,106.556 666,238 666,369.444 559.623,476 428.4,476 H 237.6 C 106.377,476 0,369.444 0,238 0,106.556 106.377,0 237.6,0 Z m 0,152.657 c -47.055,0 -85.2,38.21 -85.2,85.343 0,47.134 38.145,85.343 85.2,85.343 h 190.8 c 47.055,0 85.2,-38.21 85.2,-85.343 0,-47.134 -38.145,-85.343 -85.2,-85.343 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="x"
+       filterUnits="objectBoundingBox"
+       height="1.13"
+       width="1.0930001"
+       y="-0.064999998"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology966"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="32" />
+      <feOffset
+         id="feOffset968"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-30" />
+      <feComposite
+         id="feComposite970"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix972"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="z"
+       d="M 237.6,0 H 428.4 C 559.623,0 666,106.556 666,238 666,369.444 559.623,476 428.4,476 H 237.6 C 106.377,476 0,369.444 0,238 0,106.556 106.377,0 237.6,0 Z m 0,152.657 c -47.055,0 -85.2,38.21 -85.2,85.343 0,47.134 38.145,85.343 85.2,85.343 h 190.8 c 47.055,0 85.2,-38.21 85.2,-85.343 0,-47.134 -38.145,-85.343 -85.2,-85.343 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="y"
+       filterUnits="objectBoundingBox"
+       height="1.13"
+       width="1.0930001"
+       y="-0.064999998"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology976"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="32" />
+      <feOffset
+         id="feOffset978"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-30" />
+      <feComposite
+         id="feComposite980"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix982"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="A"
+       d="M 468.6,292.692 H 903 c 30.155,0 54.6,-24.486 54.6,-54.692 0,-30.206 -24.445,-54.692 -54.6,-54.692 H 468.6 c -30.155,0 -54.6,24.486 -54.6,54.692 0,30.206 24.445,54.692 54.6,54.692 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="C"
+       d="M 468.6,292.692 H 903 c 30.155,0 54.6,-24.486 54.6,-54.692 0,-30.206 -24.445,-54.692 -54.6,-54.692 H 468.6 c -30.155,0 -54.6,24.486 -54.6,54.692 0,30.206 24.445,54.692 54.6,54.692 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="B"
+       filterUnits="objectBoundingBox"
+       height="1.421"
+       width="1.085"
+       y="-0.20999999"
+       x="-0.041999999">
+      <feMorphology
+         id="feMorphology987"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="15" />
+      <feOffset
+         id="feOffset989"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-31" />
+      <feComposite
+         id="feComposite991"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix993"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       d="M 675,360 H 63 V 624 H 675 V 920 L 1135,492 675,64 Z"
+       id="a-0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="c-7"
+       d="m 2736,0 h 318 c 218.705,0 396,177.295 396,396 0,218.705 -177.295,396 -396,396 H 2736 C 2517.295,792 2340,614.705 2340,396 2340,177.295 2517.295,0 2736,0 Z m 0,254 c -78.424,0 -142,63.576 -142,142 0,78.424 63.576,142 142,142 h 318 c 78.424,0 142,-63.576 142,-142 0,-78.424 -63.576,-142 -142,-142 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="b-6"
+       filterUnits="objectBoundingBox"
+       height="1.131"
+       width="1.094"
+       y="-0.066"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology1350"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="54" />
+      <feOffset
+         id="feOffset1352"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-50" />
+      <feComposite
+         id="feComposite1354"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix1356"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="e-4"
+       d="m 3906,0 h 318 c 218.705,0 396,177.295 396,396 0,218.705 -177.295,396 -396,396 H 3906 C 3687.295,792 3510,614.705 3510,396 3510,177.295 3687.295,0 3906,0 Z m 0,254 c -78.424,0 -142,63.576 -142,142 0,78.424 63.576,142 142,142 h 318 c 78.424,0 142,-63.576 142,-142 0,-78.424 -63.576,-142 -142,-142 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="d-1"
+       filterUnits="objectBoundingBox"
+       height="1.131"
+       width="1.094"
+       y="-0.066"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology1360"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="54" />
+      <feOffset
+         id="feOffset1362"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-50" />
+      <feComposite
+         id="feComposite1364"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix1366"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="g-3"
+       d="m 1566,0 h 318 c 218.705,0 396,177.295 396,396 0,218.705 -177.295,396 -396,396 H 1566 C 1347.295,792 1170,614.705 1170,396 1170,177.295 1347.295,0 1566,0 Z m 0,254 c -78.424,0 -142,63.576 -142,142 0,78.424 63.576,142 142,142 h 318 c 78.424,0 142,-63.576 142,-142 0,-78.424 -63.576,-142 -142,-142 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="f-8"
+       filterUnits="objectBoundingBox"
+       height="1.131"
+       width="1.094"
+       y="-0.066"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology1370"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="54" />
+      <feOffset
+         id="feOffset1372"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-50" />
+      <feComposite
+         id="feComposite1374"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix1376"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="h-5"
+       d="m 396,0 h 318 c 218.705,0 396,177.295 396,396 0,218.705 -177.295,396 -396,396 H 396 C 177.295,792 0,614.705 0,396 0,177.295 177.295,0 396,0 Z m 0,254 c -78.424,0 -142,63.576 -142,142 0,78.424 63.576,142 142,142 h 318 c 78.424,0 142,-63.576 142,-142 0,-78.424 -63.576,-142 -142,-142 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="i-7"
+       filterUnits="objectBoundingBox"
+       height="1.131"
+       width="1.094"
+       y="-0.066"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology1380"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="54" />
+      <feOffset
+         id="feOffset1382"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-50" />
+      <feComposite
+         id="feComposite1384"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix1386"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="k-4"
+       d="m 396,0 h 318 c 218.705,0 396,177.295 396,396 0,218.705 -177.295,396 -396,396 H 396 C 177.295,792 0,614.705 0,396 0,177.295 177.295,0 396,0 Z m 0,254 c -78.424,0 -142,63.576 -142,142 0,78.424 63.576,142 142,142 h 318 c 78.424,0 142,-63.576 142,-142 0,-78.424 -63.576,-142 -142,-142 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="j-7"
+       filterUnits="objectBoundingBox"
+       height="1.131"
+       width="1.094"
+       y="-0.066"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology1390"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="54" />
+      <feOffset
+         id="feOffset1392"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-50" />
+      <feComposite
+         id="feComposite1394"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix1396"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="l-5"
+       d="m 781,487 h 724 c 50.258,0 91,-40.742 91,-91 0,-50.258 -40.742,-91 -91,-91 H 781 c -50.258,0 -91,40.742 -91,91 0,50.258 40.742,91 91,91 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="n-2"
+       d="m 781,487 h 724 c 50.258,0 91,-40.742 91,-91 0,-50.258 -40.742,-91 -91,-91 H 781 c -50.258,0 -91,40.742 -91,91 0,50.258 40.742,91 91,91 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="m-4"
+       filterUnits="objectBoundingBox"
+       height="1.418"
+       width="1.084"
+       y="-0.20899999"
+       x="-0.041999999">
+      <feMorphology
+         id="feMorphology1401"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="25" />
+      <feOffset
+         id="feOffset1403"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-51" />
+      <feComposite
+         id="feComposite1405"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix1407"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="o-6"
+       d="m 1948,487 h 724 c 50.258,0 91,-40.742 91,-91 0,-50.258 -40.742,-91 -91,-91 h -724 c -50.258,0 -91,40.742 -91,91 0,50.258 40.742,91 91,91 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="q-9"
+       d="m 1948,487 h 724 c 50.258,0 91,-40.742 91,-91 0,-50.258 -40.742,-91 -91,-91 h -724 c -50.258,0 -91,40.742 -91,91 0,50.258 40.742,91 91,91 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="p-7"
+       filterUnits="objectBoundingBox"
+       height="1.418"
+       width="1.084"
+       y="-0.20899999"
+       x="-0.041999999">
+      <feMorphology
+         id="feMorphology1412"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="25" />
+      <feOffset
+         id="feOffset1414"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-51" />
+      <feComposite
+         id="feComposite1416"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix1418"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="r-8"
+       d="m 3115,487 h 724 c 50.258,0 91,-40.742 91,-91 0,-50.258 -40.742,-91 -91,-91 h -724 c -50.258,0 -91,40.742 -91,91 0,50.258 40.742,91 91,91 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="t-6"
+       d="m 3115,487 h 724 c 50.258,0 91,-40.742 91,-91 0,-50.258 -40.742,-91 -91,-91 h -724 c -50.258,0 -91,40.742 -91,91 0,50.258 40.742,91 91,91 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="s-1"
+       filterUnits="objectBoundingBox"
+       height="1.418"
+       width="1.084"
+       y="-0.20899999"
+       x="-0.041999999">
+      <feMorphology
+         id="feMorphology1423"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="25" />
+      <feOffset
+         id="feOffset1425"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-51" />
+      <feComposite
+         id="feComposite1427"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix1429"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="v-7"
+       d="m 939.6,0 h 190.8 c 131.223,0 237.6,106.556 237.6,238 0,131.444 -106.377,238 -237.6,238 H 939.6 C 808.377,476 702,369.444 702,238 702,106.556 808.377,0 939.6,0 Z m 0,152.657 c -47.055,0 -85.2,38.21 -85.2,85.343 0,47.134 38.145,85.343 85.2,85.343 h 190.8 c 47.055,0 85.2,-38.21 85.2,-85.343 0,-47.134 -38.145,-85.343 -85.2,-85.343 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="u-6"
+       filterUnits="objectBoundingBox"
+       height="1.13"
+       width="1.0930001"
+       y="-0.064999998"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology1433"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="32" />
+      <feOffset
+         id="feOffset1435"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-30" />
+      <feComposite
+         id="feComposite1437"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix1439"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="w-8"
+       d="M 237.6,0 H 428.4 C 559.623,0 666,106.556 666,238 666,369.444 559.623,476 428.4,476 H 237.6 C 106.377,476 0,369.444 0,238 0,106.556 106.377,0 237.6,0 Z m 0,152.657 c -47.055,0 -85.2,38.21 -85.2,85.343 0,47.134 38.145,85.343 85.2,85.343 h 190.8 c 47.055,0 85.2,-38.21 85.2,-85.343 0,-47.134 -38.145,-85.343 -85.2,-85.343 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="x-5"
+       filterUnits="objectBoundingBox"
+       height="1.13"
+       width="1.0930001"
+       y="-0.064999998"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology1443"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="32" />
+      <feOffset
+         id="feOffset1445"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-30" />
+      <feComposite
+         id="feComposite1447"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix1449"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="z-7"
+       d="M 237.6,0 H 428.4 C 559.623,0 666,106.556 666,238 666,369.444 559.623,476 428.4,476 H 237.6 C 106.377,476 0,369.444 0,238 0,106.556 106.377,0 237.6,0 Z m 0,152.657 c -47.055,0 -85.2,38.21 -85.2,85.343 0,47.134 38.145,85.343 85.2,85.343 h 190.8 c 47.055,0 85.2,-38.21 85.2,-85.343 0,-47.134 -38.145,-85.343 -85.2,-85.343 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="y-4"
+       filterUnits="objectBoundingBox"
+       height="1.13"
+       width="1.0930001"
+       y="-0.064999998"
+       x="-0.046999998">
+      <feMorphology
+         id="feMorphology1453"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="32" />
+      <feOffset
+         id="feOffset1455"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-30" />
+      <feComposite
+         id="feComposite1457"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix1459"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+    <path
+       id="A-4"
+       d="M 468.6,292.692 H 903 c 30.155,0 54.6,-24.486 54.6,-54.692 0,-30.206 -24.445,-54.692 -54.6,-54.692 H 468.6 c -30.155,0 -54.6,24.486 -54.6,54.692 0,30.206 24.445,54.692 54.6,54.692 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="C-1"
+       d="M 468.6,292.692 H 903 c 30.155,0 54.6,-24.486 54.6,-54.692 0,-30.206 -24.445,-54.692 -54.6,-54.692 H 468.6 c -30.155,0 -54.6,24.486 -54.6,54.692 0,30.206 24.445,54.692 54.6,54.692 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       id="B-4"
+       filterUnits="objectBoundingBox"
+       height="1.421"
+       width="1.085"
+       y="-0.20999999"
+       x="-0.041999999">
+      <feMorphology
+         id="feMorphology1464"
+         result="shadowSpreadInner1"
+         in="SourceAlpha"
+         radius="15" />
+      <feOffset
+         id="feOffset1466"
+         result="shadowOffsetInner1"
+         in="shadowSpreadInner1"
+         dy="-31" />
+      <feComposite
+         id="feComposite1468"
+         result="shadowInnerInner1"
+         k3="1"
+         k2="-1"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         in="shadowOffsetInner1"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         id="feColorMatrix1470"
+         in="shadowInnerInner1"
+         values="0 0 0 0 0.262745098 0 0 0 0 0.576470588 0 0 0 0 0.733333333 0 0 0 1 0" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1800"
+     inkscape:window-height="1059"
+     id="namedview57"
+     showgrid="false"
+     inkscape:zoom="1.3037281"
+     inkscape:cx="215.04151"
+     inkscape:cy="340.3552"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1" />
+  <g
+     id="g10"
+     style="fill:#8cc8de;fill-opacity:1"
+     transform="translate(78.87049,141.87057)">
+    <path
+       d="M 425.396,266.605 369.79,211 H 166.001 c -24.814,0 -45,-20.186 -45,-45 V 45 c 0,-24.814 20.186,-45 45,-45 h 301 c 24.814,0 45,20.186 45,45 v 121 c 0,24.814 -20.186,45 -45,45 h -16 v 45 c 0,6.064 -3.662,11.543 -9.258,13.857 -5.453,2.294 -11.983,1.112 -16.347,-3.252 z"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="fill:#8cc8de;fill-opacity:1" />
+  </g>
+  <g
+     style="fill:none;fill-rule:evenodd"
+     id="g1124"
+     transform="matrix(0.33056403,0,0,0.33056403,916.58383,316.73179)" />
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Futura Hv BT';-inkscape-font-specification:'Futura Hv BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#025d90;fill-opacity:1;stroke:none;stroke-width:1.18198276"
+     d="m 451.42347,224.31637 v 35.78342 h 6.55668 v -35.78342 z m 21.17004,12.28133 c -2.84721,0 -5.14178,0.68495 -6.8809,2.0547 -1.73912,1.36974 -2.60743,3.16272 -2.60743,5.37893 0,1.49286 0.50768,2.74793 1.52345,3.76369 1.03115,1.01578 2.8785,2.02309 5.54105,3.02346 0.40015,0.15389 0.93805,0.34531 1.61524,0.57618 2.18543,0.73873 3.27736,1.65534 3.27736,2.74805 0,0.69257 -0.30626,1.23853 -0.92188,1.63869 -0.61561,0.38475 -1.46371,0.57813 -2.54103,0.57813 -1.09271,0 -2.00737,-0.25385 -2.74611,-0.76173 -0.73874,-0.50787 -1.19399,-1.20088 -1.36329,-2.07813 l -5.05472,2.60938 c 0.55406,1.50826 1.65403,2.70091 3.3008,3.57816 1.66216,0.86186 3.66265,1.29101 6.00199,1.29101 2.95496,0 5.30193,-0.6608 7.04106,-1.98438 1.73911,-1.32358 2.60939,-3.1085 2.60938,-5.3555 0,-1.67755 -0.52376,-3.05551 -1.57031,-4.13283 -1.04654,-1.09273 -2.80733,-2.04762 -5.28519,-2.8633 -0.1847,-0.0616 -0.45462,-0.14618 -0.8086,-0.25391 -2.98573,-0.9696 -4.47854,-2.01521 -4.47854,-3.13869 0,-0.6464 0.30016,-1.17017 0.9004,-1.57032 0.60022,-0.40015 1.38394,-0.59961 2.35352,-0.59961 0.9696,0 1.77745,0.2236 2.42385,0.66992 0.64639,0.43092 1.10164,1.06955 1.36328,1.91602 l 4.82425,-2.40235 c -0.67717,-1.49287 -1.76105,-2.64722 -3.25392,-3.46291 -1.47747,-0.81569 -3.23217,-1.22266 -5.26371,-1.22266 z m -87.5884,0.0918 c -3.64753,0 -6.67142,1.16239 -9.07232,3.48635 -2.40091,2.32395 -3.60159,5.21689 -3.60159,8.67973 0,3.47822 1.19459,6.37313 3.5801,8.6817 2.38552,2.30856 5.4155,3.46291 9.09381,3.46291 3.64752,0 6.65727,-1.15435 9.0274,-3.46291 2.3855,-2.30857 3.57814,-5.20348 3.57814,-8.6817 0,-3.5244 -1.18459,-6.43344 -3.55471,-8.72661 -2.37011,-2.29317 -5.38791,-3.43947 -9.05083,-3.43947 z m 60.67027,0 c -1.83145,0 -3.37059,0.54596 -4.6172,1.63868 -1.23124,1.09272 -2.17808,2.7406 -2.83987,4.94143 l 0.13868,-5.81839 h -6.48637 v 22.64857 h 6.57816 v -9.97467 c 0,-2.4009 0.43916,-4.10926 1.31642,-5.12503 0.87724,-1.03115 2.31567,-1.54689 4.31642,-1.54689 0.55406,0 1.07784,0.0544 1.57033,0.16211 0.50788,0.0923 1.00752,0.23938 1.50001,0.43946 l 0.99415,-7.06449 c -0.0924,-0.0154 -0.23133,-0.0395 -0.41602,-0.0703 -0.9542,-0.15391 -1.63915,-0.23047 -2.05471,-0.23047 z m 66.30119,0 c -3.64753,0 -6.67142,1.16239 -9.07233,3.48635 -2.4009,2.32395 -3.60158,5.21689 -3.60158,8.67973 0,3.47822 1.19263,6.37313 3.57814,8.6817 2.38552,2.30856 5.41745,3.46291 9.09577,3.46291 3.64752,0 6.65726,-1.15435 9.02739,-3.46291 2.38552,-2.30857 3.57814,-5.20348 3.57814,-8.6817 0,-3.5244 -1.18458,-6.43344 -3.5547,-8.72661 -2.37013,-2.29317 -5.38792,-3.43947 -9.05083,-3.43947 z m 31.39666,0 c -1.83146,0 -3.37059,0.54596 -4.61722,1.63868 -1.23122,1.09272 -2.17807,2.7406 -2.83985,4.94143 l 0.13867,-5.81839 h -6.48637 v 22.64857 h 6.57817 v -9.97467 c 0,-2.4009 0.43916,-4.10926 1.31641,-5.12503 0.87725,-1.03115 2.31567,-1.54689 4.31643,-1.54689 0.55404,0 1.07783,0.0544 1.57032,0.16211 0.50789,0.0923 1.00948,0.23938 1.50197,0.43946 l 0.99219,-7.06449 c -0.0923,-0.0154 -0.23133,-0.0395 -0.41602,-0.0703 -0.95419,-0.15391 -1.63916,-0.23047 -2.0547,-0.23047 z m 14.33603,0 c -3.20121,0 -5.70938,1.06168 -7.52544,3.18556 -1.81607,2.12387 -2.72463,5.06511 -2.72463,8.82036 0,3.6937 0.93075,6.63297 2.79299,8.81842 1.86224,2.17004 4.34822,3.25391 7.45708,3.25391 1.69294,0 3.1555,-0.33844 4.38674,-1.01562 1.24662,-0.67718 2.3083,-1.71473 3.18556,-3.11526 v 3.23049 c 0,2.15465 -0.40087,3.69379 -1.20118,4.61722 -0.7849,0.92342 -2.0702,1.38477 -3.85549,1.38477 -1.35435,0 -2.37775,-0.20752 -3.07033,-0.62305 -0.69256,-0.41554 -1.09149,-1.06221 -1.19923,-1.93946 h -7.2266 c 0.16929,2.38551 1.2088,4.16434 3.11721,5.33401 1.90841,1.16968 4.70065,1.75392 8.37895,1.75392 2.20082,0 4.07231,-0.25384 5.61136,-0.76172 1.53903,-0.50789 2.8002,-1.29355 3.78519,-2.35549 0.69257,-0.70796 1.17805,-1.54605 1.45507,-2.51564 0.29243,-0.9696 0.43752,-2.64773 0.43751,-5.03323 v -22.27747 h -6.18558 v 3.74025 c -0.86187,-1.47748 -1.93965,-2.59354 -3.23244,-3.34767 -1.27742,-0.76953 -2.73999,-1.15431 -4.38674,-1.15431 z m -338.48052,0.76172 7.84965,22.64857 h 6.99419 l 3.48635,-11.82039 c 0.21547,-0.75412 0.41492,-1.56197 0.59961,-2.42383 0.20007,-0.86187 0.39954,-1.81675 0.59961,-2.86331 0.23086,1.12351 0.60151,2.56997 1.10938,4.33988 0.13855,0.4771 0.2373,0.82359 0.29883,1.03906 l 3.39455,11.72859 h 7.01762 l 7.54888,-21.78138 7.54887,21.78138 h 6.99613 l 3.4844,-11.82039 c 0.21547,-0.75412 0.41688,-1.56197 0.60157,-2.42383 0.20007,-0.86187 0.39953,-1.81675 0.59961,-2.86331 0.23085,1.12351 0.59954,2.56997 1.10743,4.33988 0.13854,0.4771 0.23925,0.82359 0.30078,1.03906 l 3.3926,11.72859 h 7.01957 l 7.54888,-21.78333 7.54887,21.78333 h 6.99418 l 3.48635,-11.82039 c 0.21546,-0.75412 0.41491,-1.56197 0.59962,-2.42383 0.20006,-0.86187 0.40148,-1.81675 0.60156,-2.86331 0.23085,1.12351 0.59954,2.56997 1.10743,4.33988 0.13855,0.4771 0.23925,0.82359 0.30078,1.03906 l 3.3926,11.72859 h 7.01762 l 7.84965,-22.64857 h -7.15629 l -3.53323,11.68171 c -0.30781,0.96959 -0.56773,1.84792 -0.7832,2.63282 -0.20007,0.78491 -0.36931,1.53034 -0.50782,2.23829 -0.26165,-1.81606 -0.44696,-3.01674 -0.55469,-3.60158 -0.0924,-0.58483 -0.16894,-0.9918 -0.23047,-1.22266 l -3.27932,-11.72858 h -7.17972 l -3.02346,11.28912 c -0.23086,0.81569 -0.43032,1.66182 -0.59961,2.53908 -0.16929,0.86186 -0.31634,1.76237 -0.43946,2.70119 -0.13851,-0.86187 -0.30774,-1.69995 -0.50782,-2.51564 -0.20007,-0.83108 -0.45392,-1.75377 -0.76171,-2.76955 l -3.46291,-11.2442 h -6.58012 -7.1563 l -3.53127,11.68171 c -0.30781,0.96959 -0.56969,1.84792 -0.78516,2.63282 -0.20007,0.78491 -0.36931,1.53034 -0.50781,2.23829 -0.26166,-1.81606 -0.44697,-3.01674 -0.5547,-3.60158 -0.0924,-0.58483 -0.16894,-0.9918 -0.23047,-1.22266 l -3.27736,-11.72858 h -7.17973 l -3.02541,11.28912 c -0.23086,0.81569 -0.43032,1.66182 -0.59961,2.53908 -0.16929,0.86186 -0.31633,1.76237 -0.43945,2.70119 -0.13852,-0.86187 -0.30775,-1.69995 -0.50782,-2.51564 -0.20008,-0.83108 -0.45392,-1.75377 -0.76172,-2.76955 l -3.46291,-11.2442 h -6.57817 -0.60156 -6.55473 l -3.53322,11.68171 c -0.30782,0.96959 -0.5697,1.84792 -0.78517,2.63282 -0.20007,0.78491 -0.3693,1.53034 -0.50781,2.23829 -0.26164,-1.81606 -0.44501,-3.01674 -0.55274,-3.60158 -0.0924,-0.58483 -0.17089,-0.9918 -0.23243,-1.22266 l -3.27736,-11.72858 h -7.17973 l -3.02346,11.28912 c -0.23085,0.81569 -0.43227,1.66182 -0.60156,2.53908 -0.16929,0.86186 -0.31438,1.76237 -0.4375,2.70119 -0.13851,-0.86187 -0.30773,-1.69995 -0.50781,-2.51564 -0.20008,-0.83108 -0.45393,-1.75377 -0.76173,-2.76955 l -3.46291,-11.2442 z m 126.73903,0 9.11919,20.8927 -4.91799,12.05085 h 7.27347 l 13.48055,-32.94355 h -7.52543 l -3.43947,10.11139 c -0.33859,0.96958 -0.62268,1.8862 -0.85353,2.74805 -0.23086,0.86187 -0.42422,1.708 -0.57812,2.53909 -0.0923,-1.03117 -0.22329,-1.96191 -0.39258,-2.79299 -0.16929,-0.84647 -0.38485,-1.59385 -0.6465,-2.24025 l -3.92384,-10.36529 z m 56.53744,0 v 11.91218 c 0,4.00149 0.93075,6.94077 2.79299,8.81841 1.87763,1.87762 4.80885,2.81642 8.79497,2.81642 3.90916,0 6.79602,-0.9388 8.65826,-2.81642 1.86224,-1.89303 2.79299,-4.83231 2.79299,-8.81841 v -11.91218 h -6.58012 v 11.91217 c 0,1.98537 -0.39088,3.4177 -1.17579,4.29495 -0.78492,0.86186 -2.04802,1.29298 -3.78713,1.29298 -1.7545,0 -3.0237,-0.43112 -3.80863,-1.29298 -0.76951,-0.86187 -1.15429,-2.2942 -1.15429,-4.29495 v -11.91217 z m 157.37398,4.8262 c 1.7545,0 3.14051,0.5762 4.15627,1.73048 1.01577,1.15427 1.52345,2.73168 1.52345,4.73244 0,2.01615 -0.50768,3.58551 -1.52345,4.70901 -1.00037,1.1235 -2.40051,1.68556 -4.20119,1.68556 -1.80068,0 -3.20278,-0.56206 -4.20316,-1.68556 -1.00036,-1.1235 -1.50001,-2.69286 -1.50001,-4.70901 0,-2.01614 0.5077,-3.59356 1.52345,-4.73244 1.01577,-1.15428 2.42396,-1.73048 4.22464,-1.73048 z m -174.919,0.46094 c 1.81606,0 3.26254,0.55401 4.33986,1.66212 1.07733,1.09271 1.61525,2.56333 1.61525,4.41017 0,1.84685 -0.54596,3.32356 -1.63868,4.43167 -1.07732,1.10811 -2.51576,1.66212 -4.31643,1.66212 -1.81607,0 -3.25449,-0.55401 -4.31644,-1.66212 -1.06193,-1.10811 -1.59376,-2.58482 -1.59376,-4.43167 0,-1.86223 0.53183,-3.3409 1.59376,-4.43361 1.06195,-1.09272 2.50037,-1.63868 4.31644,-1.63868 z m 126.97145,0 c 1.81608,0 3.26254,0.55401 4.33987,1.66212 1.07732,1.09271 1.61524,2.56333 1.61524,4.41017 0,1.84685 -0.54596,3.32356 -1.63868,4.43167 -1.07733,1.10811 -2.51575,1.66212 -4.31643,1.66212 -1.81607,0 -3.25645,-0.55401 -4.31839,-1.66212 -1.06194,-1.10811 -1.5918,-2.58482 -1.5918,-4.43167 0,-1.86223 0.52986,-3.3409 1.5918,-4.43361 1.06194,-1.09272 2.50232,-1.63868 4.31839,-1.63868 z m -172.87797,10.08795 c -1.09272,0 -2.03152,0.39283 -2.81643,1.17773 -0.76952,0.78491 -1.1543,1.73176 -1.1543,2.83987 0,1.07733 0.38478,2.00002 1.1543,2.76955 0.78491,0.76951 1.72371,1.15429 2.81643,1.15429 1.1081,0 2.04689,-0.37673 2.81642,-1.13086 0.76952,-0.76953 1.1543,-1.70026 1.1543,-2.79298 0,-1.10811 -0.39283,-2.05496 -1.17774,-2.83987 -0.76952,-0.7849 -1.70027,-1.17773 -2.79298,-1.17773 z m 151.22355,0 c -1.09273,0 -2.03152,0.39283 -2.81643,1.17773 -0.76952,0.78491 -1.15431,1.73176 -1.15431,2.83987 0,1.07733 0.38479,2.00002 1.15431,2.76955 0.78491,0.76951 1.7237,1.15429 2.81643,1.15429 1.1081,0 2.0469,-0.37673 2.81641,-1.13086 0.76953,-0.76953 1.15431,-1.70026 1.15431,-2.79298 0,-1.10811 -0.39283,-2.05496 -1.17774,-2.83987 -0.76952,-0.7849 -1.70027,-1.17773 -2.79298,-1.17773 z"
+     id="path1909"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#026090;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path2"
+     d="m 149.12949,562.72712 c -5.596,-2.314 -9.258,-7.793 -9.258,-13.857 v -45 h -16 c -24.814,0 -45,-20.186 -45,-45 v -121 c 0,-24.814 20.186,-45 45,-45 h 301 c 24.814,0 45,20.186 45,45 v 121 c 0,24.814 -20.186,45 -45,45 h -203.789 l -55.605,55.605 c -4.36,4.361 -10.894,5.546 -16.348,3.252 z" />
+  <g
+     style="fill:#8cc8de;fill-opacity:1;fill-rule:evenodd"
+     id="g6"
+     transform="matrix(0.29031356,0.29809674,-0.29809674,0.29031356,276.46615,247.85875)">
+    <path
+       style="fill:#8cc8de;fill-opacity:1"
+       id="path2-3"
+       d="m 189.547,128.897 c -60.302,62.391 -47.143,165.931 21.932,211.798 2.276,1.512 5.304,1.212 7.259,-0.698 14.542,-14.209 26.844,-27.972 37.616,-45.476 1.648,-2.678 0.623,-6.153 -2.142,-7.651 -10.536,-5.708 -21.02,-16.411 -26.922,-27.717 l -0.007,0.004 c -7.07,-14.078 -9.477,-29.859 -5.734,-46.157 0.004,0.001 0.008,0.002 0.012,0.002 4.307,-20.866 26.708,-40.276 43.817,-58.227 -0.036,-0.012 -0.071,-0.025 -0.107,-0.037 l 64.103,-65.426 c 25.546,-26.073 67.566,-26.288 93.377,-0.477 26.072,25.545 26.503,67.777 0.958,93.849 l -38.828,39.928 c -1.797,1.848 -2.38,4.544 -1.539,6.981 8.94,25.925 11.139,62.48 5.148,90.098 -0.168,0.773 0.786,1.279 1.339,0.714 l 82.638,-84.344 C 525.258,182.181 524.81,94.457 471.472,41.119 417.039,-13.314 328.424,-12.861 274.55,42.124 l -84.672,86.419 c -0.112,0.118 -0.218,0.238 -0.331,0.354 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#8cc8de;fill-opacity:1"
+       id="path4"
+       d="m 344.038,352.576 c -0.001,0.003 -0.003,0.006 -0.004,0.009 0.053,-0.022 0.102,-0.043 0.155,-0.066 16.865,-30.839 20.185,-66.208 12.281,-100.687 l -0.036,0.037 -0.039,-0.017 c -7.505,-30.709 -28.098,-61.203 -56.066,-79.978 -2.406,-1.615 -6.249,-1.428 -8.502,0.394 -14.167,11.455 -28.034,26.144 -37.184,44.889 -1.437,2.943 -0.361,6.478 2.471,8.122 10.619,6.165 20.209,15.191 26.63,27.174 l 0.01,-0.007 c 5.004,8.465 9.935,24.527 6.741,41.785 -0.002,0 -0.005,0 -0.007,0 -2.98,22.881 -26.086,43.869 -44.454,62.781 l 0.009,0.009 c -13.982,14.298 -49.525,50.532 -63.757,65.072 -25.545,26.072 -67.777,26.503 -93.849,0.958 -26.072,-25.545 -26.503,-67.777 -0.958,-93.849 l 38.943,-40.048 c 1.765,-1.815 2.365,-4.453 1.58,-6.86 -8.647,-26.531 -11.016,-62.262 -5.558,-89.849 0.152,-0.769 -0.794,-1.26 -1.343,-0.7 L 39.706,274.82 c -53.332,54.433 -52.88,143.057 1.006,196.942 54.43,53.33 142.597,52.429 195.927,-2.001 18.527,-20.724 97.835,-94.153 107.399,-117.185 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
